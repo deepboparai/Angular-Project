@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "angularapi", "angularapi\angularapi.csproj", "{B89C74A4-8C08-4028-AE5C-72B5C1F4CE8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B89C74A4-8C08-4028-AE5C-72B5C1F4CE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89C74A4-8C08-4028-AE5C-72B5C1F4CE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89C74A4-8C08-4028-AE5C-72B5C1F4CE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89C74A4-8C08-4028-AE5C-72B5C1F4CE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49C5748D-732A-4317-9849-F9EEBAD3649D}
+	EndGlobalSection
+EndGlobal
